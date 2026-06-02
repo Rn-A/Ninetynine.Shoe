@@ -1,0 +1,16 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Video formats
+*.mp4
+*.MP4
+*.webm
+*.ogg
+*.mov
+*.MOV
